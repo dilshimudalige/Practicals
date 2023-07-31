@@ -1,0 +1,24 @@
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.AssemblyReference.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.SuggestedBindingRedirects.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.CoreCompileInputs.cache
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.exe.config
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.exe
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.pdb
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.exe
+D:\NSBM\Y1S2\C#\lab practicals\Lab 05\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.pdb
+C:\Users\Samee\Desktop\Lab 05-24943\Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.exe.config
+C:\Users\Samee\Desktop\Lab 05-24943\Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.exe
+C:\Users\Samee\Desktop\Lab 05-24943\Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.pdb
+C:\Users\Samee\Desktop\Lab 05-24943\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.AssemblyReference.cache
+C:\Users\Samee\Desktop\Lab 05-24943\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samee\Desktop\Lab 05-24943\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.CoreCompileInputs.cache
+C:\Users\Samee\Desktop\Lab 05-24943\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.exe
+C:\Users\Samee\Desktop\Lab 05-24943\Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.pdb
+C:\Users\Samee\Desktop\Lab 05-24943\C# Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.AssemblyReference.cache
+C:\Users\Samee\Desktop\Lab 05-24943\C# Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samee\Desktop\Lab 05-24943\C# Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.csproj.CoreCompileInputs.cache
+C:\Users\Samee\Desktop\Lab 05-24943\C# Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.exe
+C:\Users\Samee\Desktop\Lab 05-24943\C# Lab 05 Question 03\Lab 05 Question 03\obj\Debug\Lab 05 Question 03.pdb
+C:\Users\Samee\Desktop\Lab 05-24943\C# Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.exe.config
+C:\Users\Samee\Desktop\Lab 05-24943\C# Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.exe
+C:\Users\Samee\Desktop\Lab 05-24943\C# Lab 05 Question 03\Lab 05 Question 03\bin\Debug\Lab 05 Question 03.pdb
